@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Users.php" server="10.10.10.22/hr-cms/" local="131140224000000000" remote="131140224000000000" />
+<file name="Tblhrmaster.php" server="10.10.10.22/hr-cms/" local="131471136000000000" remote="131471136000000000" />
+<file name="Tblprogram.php" server="10.10.10.22/hr-cms/" local="131497635000000000" remote="131497635000000000" />
+<file name="Tbldepartment.php" server="10.10.10.22/hr-cms/" local="131516453400000000" remote="131516453400000000" />
+<file name="Tblhrunit.php" server="10.10.10.22/hr-cms/" local="131461632000000000" remote="131461632000000000" />
+<file name="Tblprogram.php" server="10.10.10.33/hr-cms/" local="131497634726529892" remote="131497634400000000" />
+<file name="Applications.php" server="10.10.10.22/hr-cms/" local="131317344000000000" remote="131317344000000000" />
+<file name="ApplicationsRecord.php" server="10.10.10.22/hr-cms/" local="131267232000000000" remote="131267232000000000" />
+<file name="Category.php" server="10.10.10.22/hr-cms/" local="131273280000000000" remote="131273280000000000" />
+<file name="ChangePasswordForm.php" server="10.10.10.22/hr-cms/" local="131151456000000000" remote="131151456000000000" />
+<file name="EmailLog.php" server="10.10.10.22/hr-cms/" local="131308704000000000" remote="131308704000000000" />
+<file name="ForgotPasswordForm.php" server="10.10.10.22/hr-cms/" local="131150592000000000" remote="131150592000000000" />
+<file name="Itemlist.php" server="10.10.10.22/hr-cms/" local="131279328000000000" remote="131279328000000000" />
+<file name="ItemlistDue.php" server="10.10.10.22/hr-cms/" local="131272416000000000" remote="131272416000000000" />
+<file name="ItemlistPaid.php" server="10.10.10.22/hr-cms/" local="131272416000000000" remote="131272416000000000" />
+<file name="LoginForm.php" server="10.10.10.22/hr-cms/" local="131151456000000000" remote="131151456000000000" />
+<file name="PasswordRequests.php" server="10.10.10.22/hr-cms/" local="131150592000000000" remote="131150592000000000" />
+<file name="Tblcountry.php" server="10.10.10.22/hr-cms/" local="131207616000000000" remote="131207616000000000" />
+<file name="Tbldepartmentcategory.php" server="10.10.10.22/hr-cms/" local="131241312000000000" remote="131241312000000000" />
+<file name="Tblfaculty.php" server="10.10.10.22/hr-cms/" local="131207616000000000" remote="131207616000000000" />
+<file name="Tblgender.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tblhod.php" server="10.10.10.22/hr-cms/" local="131207616000000000" remote="131207616000000000" />
+<file name="Tblhrcandidate.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tblhrhonorific.php" server="10.10.10.22/hr-cms/" local="131211072000000000" remote="131211072000000000" />
+<file name="Tblhrletter.php" server="10.10.10.22/hr-cms/" local="131351040000000000" remote="131351040000000000" />
+<file name="Tblhrprintlog.php" server="10.10.10.22/hr-cms/" local="131208480000000000" remote="131208480000000000" />
+<file name="Tblhrrecruitment.php" server="10.10.10.22/hr-cms/" local="131364000000000000" remote="131364000000000000" />
+<file name="Tblhrteachingpermit.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tblhrtraining.php" server="10.10.10.22/hr-cms/" local="131368320000000000" remote="131368320000000000" />
+<file name="Tblhrtrainingtype.php" server="10.10.10.22/hr-cms/" local="131368320000000000" remote="131368320000000000" />
+<file name="Tblhrworkingpermit.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tbljoblist.php" server="10.10.10.22/hr-cms/" local="131516453400000000" remote="131516453400000000" />
+<file name="Tblleaveholiday.php" server="10.10.10.22/hr-cms/" local="131208480000000000" remote="131208480000000000" />
+<file name="Tblnationality.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tblposition.php" server="10.10.10.22/hr-cms/" local="131207616000000000" remote="131207616000000000" />
+<file name="Tblprogramtype.php" server="10.10.10.22/hr-cms/" local="131211072000000000" remote="131211072000000000" />
+<file name="Tblrace.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tblreligion.php" server="10.10.10.22/hr-cms/" local="131370912000000000" remote="131370912000000000" />
+<file name="Tbluser.php" server="10.10.10.22/hr-cms/" local="131516455200000000" remote="131516455200000000" />
+<file name="Tblworkingstatus.php" server="10.10.10.22/hr-cms/" local="131516453400000000" remote="131516453400000000" />
+<file name="Type.php" server="10.10.10.22/hr-cms/" local="131272416000000000" remote="131272416000000000" />
+<file name="Tblhroffer.php" server="10.10.10.22/hr-cms/" local="131471673736699603" remote="131526179400000000" />
+<file name="Tblhroffer.php" server="10.10.10.33/hr-cms/" local="131471673736699603" remote="131526766200000000" />
+</dwsync>

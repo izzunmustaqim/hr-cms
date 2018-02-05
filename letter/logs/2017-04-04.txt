@@ -1,0 +1,11 @@
+Time : 06:57:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')' at line 1
+Raw SQL : INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')
+
+Time : 06:57:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')' at line 1
+Raw SQL : INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')
+
+Time : 06:57:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')' at line 1
+Raw SQL : INSER T INTO tblhrprintlog(date_log,offer_id,user_id) VALUES (NOW(),'4','1355')

@@ -1,0 +1,9 @@
+Time : 04:03:24
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tblleaveentitlement.StartDateJoin' in 'where clause'
+Raw SQL : SELECT Entitlement FROM tblpositiongrade INNER JOIN tblposition ON tblpositiongrade.PositionGradeId = tblposition.PositionGradeId INNER JOIN tblleaveentitlement ON tblleaveentitlement.PositionGradeId = tblpositiongrade.PositionGradeId 
+    WHERE tblleaveentitlement.LeaveTypeId = 1 and tblleaveentitlement.StartDateJoin = '2016-08-24' and tblposition.PositionId = :id
+
+Time : 04:02:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tblleaveentitlement.StartDateJoin' in 'where clause'
+Raw SQL : SELECT Entitlement FROM tblpositiongrade INNER JOIN tblposition ON tblpositiongrade.PositionGradeId = tblposition.PositionGradeId INNER JOIN tblleaveentitlement ON tblleaveentitlement.PositionGradeId = tblpositiongrade.PositionGradeId 
+    WHERE tblleaveentitlement.LeaveTypeId = 1 and tblleaveentitlement.StartDateJoin = '2016-08-24' and tblposition.PositionId = :id

@@ -1,0 +1,128 @@
+2016/09/14 08:44:24 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:45:16 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:45:17 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:45:33 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:45:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:46:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:47:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE user_login = 'azam.muhamadamin@city.edu.my' LIMIT 1
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT name, type, description, t1.bizrule, t1.data, t2.bizrule AS bizrule2, t2.data AS data2 FROM items t1, assignments t2 WHERE name=itemname AND userid=:userid. Bound with :userid=0
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (97)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (60)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+2016/09/14 08:47:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `tblprogramregister` `tpr`
+JOIN `tblprogram` `tpg` ON tpg.ProgramId = tpr.ProgramId
+JOIN `tblprogramregstatus` `tps` ON tps.ProgramRegId = tpr.ProgramRegId
+JOIN `tblintake` `ti` ON tpr.IntakeId = ti.IntakeId
+JOIN `tblintakeregister` `tig` ON tps.ProgramRegId = tig.ProgramRegId
+WHERE ((tpr.StudentId=:id) AND (tps.StudentStatus in (1,4,5,6,12,14,21,23,25,26))) AND (tps.CurrentStatus=1)
+GROUP BY `tig`.`ProgramRegId`
+ORDER BY `tpr`.`ProgramRegId` DESC. Bound with :id='14340'
+in C:\xampp\htdocs\sp-dev\protected\models\Tblprogram.php (264)
+in C:\xampp\htdocs\sp-dev\protected\modules\academic\controllers\DefaultController.php (29)
+in C:\xampp\htdocs\sp-dev\index.php (13)
+2016/09/14 08:47:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE user_login = 'azam.muhamadamin@city.edu.my' LIMIT 1
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (26)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)
+in C:\xampp\htdocs\sp-dev\protected\views\layouts\main.php (29)
+2016/09/14 08:47:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT name, type, description, t1.bizrule, t1.data, t2.bizrule AS bizrule2, t2.data AS data2 FROM items t1, assignments t2 WHERE name=itemname AND userid=:userid. Bound with :userid=0
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (97)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (60)
+in C:\xampp\htdocs\sp-dev\protected\components\Controller.php (19)

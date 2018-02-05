@@ -1,0 +1,313 @@
+Time : 10:23:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-19 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:23:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-18 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:22:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-12 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:22:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-11 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:21:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-09 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:21:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-05 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:20:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-04 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:20:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-31 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:19:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-30 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:19:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-29 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:19:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-28 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:19:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-27 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB',NULL)
+
+Time : 10:04:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-21 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:58:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-19 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:58:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-18 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:57:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-12 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:57:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-11 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:56:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-09 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:56:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-05 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:56:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-04 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:55:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-31 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:55:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-30 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:54:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-29 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:54:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-28 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:54:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-27 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:52:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-22 00:00:00','1675','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:40:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-11 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:38:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-19 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:38:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-18 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:36:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-12 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:36:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-11 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:36:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-11 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:35:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-09 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:34:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-05 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:34:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-02-04 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:33:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-31 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:33:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-30 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:33:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-29 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:32:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-28 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:32:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-27 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 09:29:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00' at line 2
+Raw SQL : INSERT INTO tblattendancestaffthumb(Date,UserID,UserName,DayType,AttIN,AttOUT,Break1Out,Break1In,LateIn,EarlyOut,AttWork,LeavesCode,Remark) 
+                      values ('2017-01-22 00:00:00','1297','RABI'ATUL ADAWIYAH BT IBRAHIM','WD','00:00:00', 
+                      '00:00:00','00:00','00:00','00:00','00:00','00:00','AB','No Clock In / No Clock Out')
+
+Time : 06:01:40
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : SELECT tbluser.UserId,tbluser.FullName,tbluser.hod1 as hod1,tbluser.DateConfirm as DateConfirm,tbluser.DateJoin as DateJoin 
+                FROM 
+                tbluser 
+                WHERE 
+                tbluser.StatusId=1 
+                and tbluser.UserNo = '0'
+
+Time : 06:00:03
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : SELECT tbluser.UserId,tbluser.FullName,tbluser.hod1 as hod1,tbluser.DateConfirm as DateConfirm,tbluser.DateJoin as DateJoin 
+                FROM 
+                tbluser 
+                WHERE 
+                tbluser.StatusId=1 
+                and tbluser.UserNo = '0'
+
+Time : 05:59:50
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : SELECT tbluser.UserId,tbluser.FullName,tbluser.hod1 as hod1,tbluser.DateConfirm as DateConfirm,tbluser.DateJoin as DateJoin 
+                FROM 
+                tbluser 
+                WHERE 
+                tbluser.StatusId=1 
+                and tbluser.UserNo = '0'
