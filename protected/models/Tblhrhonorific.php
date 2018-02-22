@@ -97,4 +97,11 @@ class Tblhrhonorific extends CActiveRecord
 	{
 		return parent::model($className);
 	}
+        
+        public function getYearsList() {
+        $currentYear = date('Y');
+        $yearFrom = 2015;
+        $yearsRange = range($yearFrom, $currentYear);
+        return array_combine($yearsRange, $yearsRange);
+    }
 }

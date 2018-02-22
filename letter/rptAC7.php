@@ -133,7 +133,7 @@ foreach($result as $result) {
     <br>
         <table width="100%" class="adress">
         <tr>
-            <td><?php upper($result['title']);?>. <?php upper($result['short_name']);?></td>
+            <td><?php uppercase($result['name']);?></td>
         </tr>
         <?php if(($result['address1']!="") || ($result['address2']!="") ||  ($result['postcode']!="") || ($result['city']!="")  || ($result['country_id']!="") ) {?>
             <tr>
@@ -238,7 +238,7 @@ foreach($result as $result) {
         <td><b>Intellectual Property:</b></td>
         </tr>
          <tr>
-        <td height="68" align="justify">All intellectual property (which shall include a wide range of legal rights including copyright, a patent, a registered design, a trademark, or any know-how or invention) arising directly from the work remain the sole property of City University.</td>
+        <td height="68" align="justify">All intellectual property (which shall include a wide range of legal rights including copyright, a patent, a registered design, a trademark, or any know-how or invention) arising directly from the work remains the property of City University.</td>
         </tr>
         <tr>
         <td>&nbsp;</td>
@@ -247,13 +247,13 @@ foreach($result as $result) {
         <td><b>Confidentiality:</b></td>
         </tr>
          <tr>
-        <td height="68" align="justify">The Supervisor shall maintain complete secrecy of all confidential information entrusted to him and shall not use or attempt to use any such information in a manner which may injure or cause loss either directly or indirectly to City University.</td>
+        <td height="68" align="justify">The Supervisor must keep with complete secrecy all confidential information entrusted to him and may not use or attempt to use any such information in a manner which may injure or cause loss either directly or indirectly to City University.</td>
         </tr>
         <tr>
         <td>&nbsp;</td>
         </tr>
         <tr>
-        <td height="68" align="justify">The Supervisor will, upon expiration or termination of this contract with the City University, surrender to the City University all documents belonging to the City University.</td>
+        <td height="68" align="justify">The Supervisor will, upon expiration or termination of this contract with the City University, surrender to the City University and all documents belonging to the City University.</td>
         </tr>
        </table>
  <div style='page-break-after:always'>&nbsp;</div>

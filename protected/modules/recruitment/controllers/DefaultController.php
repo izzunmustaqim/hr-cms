@@ -76,14 +76,70 @@ class DefaultController extends Controller
         }
 
     }
+	
+	public function actionJob()
+    {
 
+        $id = Yii::app()->getRequest()->getParam('id');
+
+        $this->layout='//default/main_layout';
+        if (isset($_POST['submit'])){
+
+            if($id==NULL){
+                $model = new Tbljoblist();
+            }else{
+                $model = Tbljoblist::model()->findByPk($id);
+            }
+            	$model->attributes = $_POST['Tbljoblist'];
+
+
+            if ($model->validate()) {
+
+                $model->DepartmentId = $_POST['Tbljoblist']['DepartmentId'];
+                $model->PositionId = $_POST['Tbljoblist']['PositionId'];
+                $model->WorkingStatusId = $_POST['Tbljoblist']['WorkingStatusId'];
+                $model->GenderId = $_POST['Tbljoblist']['GenderId'];
+                $model->JobResponsibility = $_POST['Tbljoblist']['JobResponsibility'];
+                $model->JobRequirements = $_POST['Tbljoblist']['JobRequirements'];
+                $model->CloseDate = $_POST['Tbljoblist']['CloseDate'];
+                $model->UserId = Yii::app()->user->getState('UserID');
+
+                if($model->save(true)){
+                    $this->redirect(Yii::app()->homeUrl . 'recruitment/default/joblist');
+                }
+
+            }else{
+                $this->render('job',array('model'=>$model));
+            }
+
+
+        }else{
+
+            if($id==NULL){
+                $model = new Tbljoblist();
+            }else{
+                $model = Tbljoblist::model()->findByPk($id);
+            }
+
+            $this->render('job',array('model'=>$model));
+        }
+
+    }
+	
     public function actionList()
     {
         $this->layout='//default/main_layout';
-        $data =  Tblhrcandidate::model()->findAll(array('order'=>'UserId desc'));
+        $data =  Tblhrcandidate::model()->findAll(array('order'=>'Date desc'));
         $this->render('list',array('data'=>$data));
     }
-
+	
+	public function actionJoblist()
+    {
+        $this->layout='//default/main_layout';
+        $data =  Tbljoblist::model()->getJoblist(array('order'=>'CloseDate desc'));
+        $this->render('joblist',array('data'=>$data));
+    }
+	
     public function actionIntegration()
     {
         $this->layout='//default/main_layout';

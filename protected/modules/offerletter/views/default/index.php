@@ -12,7 +12,7 @@
                         <a class="breadcrumb-item ks-breadcrumb-icon" href="<?php echo Yii::app()->request->baseUrl; ?>/dashboard">
                             <span class="fa fa-home ks-icon"></span>
                         </a>
-                          <!--<a href="#" class="breadcrumb-item">Dashboard</a>-->
+                        <a href="#" class="breadcrumb-item">Dashboard</a>
                         <span class="breadcrumb-item active" href="#">Offer Letter</span>
                     </nav>
 
@@ -104,7 +104,7 @@
                         </ul>
                     </div>
                     <!--/ tabs -->
-                </div>-->
+                </div>
             </div>
         </div>
     </div>

@@ -32,13 +32,28 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/add" role="button" aria-haspopup="true" aria-expanded="false">
-                                <span class="ks-icon fa fa-plane"></span>  New Candidate
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/job" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  New Job Post
                             </a>
                         </li>
                         <li class="nav-item dropdown">
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/joblist" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  Job List
+                            </a>
+                        </li>
+<!--                        <li class="nav-item dropdown">
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/job" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  Candidate List
+                            </a>
+                        </li>-->
+<!--                      <li class="nav-item dropdown">
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/add" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  New Candidate
+                            </a>
+                        </li>-->
+                        <li class="nav-item dropdown">
                             <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/list" role="button" aria-haspopup="true" aria-expanded="false">
-                                <span class="ks-icon fa fa-plane"></span>  Recruitment List
+                                <span class="ks-icon fa fa-plane"></span>  Candidate List
                             </a>
                         </li>
                         <li class="nav-item dropdown">

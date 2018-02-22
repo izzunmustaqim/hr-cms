@@ -29,13 +29,13 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/add" role="button" aria-haspopup="true" aria-expanded="false">
-                                <span class="ks-icon fa fa-plane"></span>  New Candidate
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/job" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  New Job Post
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/list" role="button" aria-haspopup="true" aria-expanded="false">
-                                <span class="ks-icon fa fa-plane"></span>  Recruitment List
+                            <a class="nav-link" href="<?php echo Yii::app()->baseURL; ?>/recruitment/default/joblist" role="button" aria-haspopup="true" aria-expanded="false">
+                                <span class="ks-icon fa fa-plane"></span>  Job List
                             </a>
                         </li>
                         <li class="nav-item dropdown">
@@ -66,7 +66,7 @@
                                 <td style="text-align: center"><?php echo $data['ICPassportNo'];?></td>
                                 <td style="text-align: center"><?php echo ($data['StatusId'] == 1) ? "<span class='label label-info label-pill'>Active</span>" : "<span class='label label-primary label-pill'>Inactive</span>";?></td>
                                 <td style="text-align: center">
-                                    <button type="button" class="btn btn-primary btn-sm" onclick="window.location='<?php echo Yii::app()->baseURL; ?>/recruitment/default/add/id/<?php echo $data['UserId']?>'">Edit</button>
+                                    <button type="button" class="btn btn-primary btn-sm" onclick="window.location='<?php echo Yii::app()->baseURL; ?>/recruitment/default/add/id/<?php echo $data['CandidateId']?>'">Edit</button>
                                 </td>
                             </tr>
                             <?php $i++;} ?>

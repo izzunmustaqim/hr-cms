@@ -343,11 +343,11 @@ You are also to note that once acceptance of this employment offer is confirmed 
             <td align="left" width="32%" valign="top">Termination of Employment</td>
             <td align="justify" width="62%">  
                 <u>During Probation</u><br>
-                <?php getProbation($result['position_id'],$db);?> notice from either party or <?php getProbation($result['position_id'],$db);?> salary in lieu of such notice.<br><br>
+                <?php getProbation($result['position_id'],$db);?> notice from either party or <?php getProbationLowerCase($result['position_id'],$db);?> salary in lieu of such notice.<br><br>
                 If an employee's services are terminated at the end of the probationary period, kindly note that the question of giving notice with regard to termination of employment shall not arise.<br><br>
                 
                 <u>Upon confirmation</u><br>
-                <?php getConfirm($result['position_id'],$db);?> notice from either party or <?php getConfirm($result['position_id'],$db);?> salary in lieu of such notice. <br><br>
+                <?php getConfirm($result['position_id'],$db);?> notice from either party or <?php getConfirmLowerCase($result['position_id'],$db);?> salary in lieu of such notice. <br><br>
 The Company reserves the right to either reduce or waive the notice period by either party if the Management deems that it would be in the Company’s interest to do so.<br><br>
 Kindly note with regard to this offer of employment you fully understand and agree that should you resign without giving the due notice or salary in lieu,</td>
         </tr>
